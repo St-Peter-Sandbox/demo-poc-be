@@ -1,5 +1,9 @@
 {
   "version": "1",
-  "name": "demo-poc-backend",
-  "type": "collection"
+  "name": "Order desk API",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
 }
